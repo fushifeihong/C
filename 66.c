@@ -1,12 +1,12 @@
 
 #include<math.h>
 #include <stdio.h>
-/*ÒÑÆÁ±Î*/
+/*Ã’Ã‘Ã†ÃÂ±Ã*/
 //int main()
 //{
 //	printf("%d\n", sizeof(long));
 //	return 0;
-/*ÒÑÆÁ±Î*/
+/*Ã’Ã‘Ã†ÃÂ±Ã*/
 //int main()
 //{
 //	int age = 18;
@@ -36,3 +36,42 @@ int main()
 
 
 }
+//int main()
+//{
+//    const int num = 10;
+//	num= 20; 
+//    printf("num=%d\n", num);
+//
+//
+//
+//	return 0;
+//}
+//int main()
+//{
+//	int arr[10] = { 0 };
+//	int n = 10;
+//	int arr2[n] = { 0 };
+//
+//	return;
+//}
+//int main()
+//{
+//	int h = dance;
+//	printf("%d\n", h);
+//
+//
+//	return 0;
+//}
+//enum Sex {
+//	ONCE,
+//	TWICE,
+//
+//
+//};
+//int main()
+//{
+//	enum Sex h = TWICE;
+//	printf("time=%d\n", h);
+//
+//	return 0;
+//}
